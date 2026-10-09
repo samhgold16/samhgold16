@@ -1,5 +1,3 @@
-## Hi there 👋
-
 I am an M.S. student in Data Science and Analytics at Georgetown University with a concentration in AI, after a statistics degree and an economics minor at the University of Michigan. 
 
 ## Featured projects
