@@ -41,4 +41,8 @@ Entry for the 2026 March Madness Kaggle competition. Simulates the full bracket 
 **Tooling** Jupyter, pandas, Matplotlib, pytest, Conda, Git, Claude Code
 
 **Tooling** Polars, DuckDB, Spark
- 
+
+ <br>
+<p align="center">
+  <sub>Washington, DC &nbsp;·&nbsp; <a href="[https://www.linkedin.com/in/TODO-your-linkedin-handle/](https://www.linkedin.com/in/samuel-gold-0a0ba5197/)">LinkedIn</a> &nbsp;</sub>
+</p>
