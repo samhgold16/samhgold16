@@ -1,3 +1,5 @@
+<p align="center"> <a href="https://www.linkedin.com/in/TODO-your-linkedin-handle/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sam%20Gold-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1c2128"></a> <a href="mailto:TODO-your-public-email"><img alt="Email" src="https://img.shields.io/badge/Email-get%20in%20touch-1f6feb?style=flat-square&logo=maildotru&logoColor=white&labelColor=1c2128"></a> <a href="#education"><img alt="Georgetown University" src="https://img.shields.io/badge/Georgetown-M.S.%20Data%20Science%20%26%20Analytics-041E42?style=flat-square&labelColor=1c2128"></a> <a href="#education"><img alt="University of Michigan" src="https://img.shields.io/badge/Michigan-Statistics-FFCB05?style=flat-square&labelColor=1c2128"></a> </p>
+
 I am an M.S. student in Data Science and Analytics at Georgetown University with a concentration in AI, after a statistics degree and an economics minor at the University of Michigan. 
 
 ## Featured projects
@@ -42,7 +44,11 @@ Entry for the 2026 March Madness Kaggle competition. Simulates the full bracket 
 
 **Tooling** Polars, DuckDB, Spark
 
- <br>
+<br>
 <p align="center">
-  <sub>Washington, DC &nbsp;·&nbsp; <a href="[https://www.linkedin.com/in/TODO-your-linkedin-handle/](https://www.linkedin.com/in/samuel-gold-0a0ba5197/)">LinkedIn</a> &nbsp;</sub>
+  <sub>
+    Washington, DC &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/samuel-gold-0a0ba5197/">LinkedIn</a>
+    &nbsp;
+  </sub>
 </p>
