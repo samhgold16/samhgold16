@@ -6,7 +6,7 @@ I am an M.S. student in Data Science and Analytics at Georgetown University with
 
 ### [Customizable Private RAG Pipeline](https://github.com/samhgold16/Custom-Rag-Pipeline)
 
-Local-first RAG (Retrieval-Augmented Generation) engine that answers questions using an Ollama chat model based on user-inputted and domain-specific documents, and measures answer quality through a deterministic evaluation harness. It supports multiple retrieval strategies—including dense, MMR, hybrid BM25+dense with RRF, and LLM re-ranking—behind a single RAGEngine facade and Typer CLI.
+Local-first RAG (Retrieval-Augmented Generation) engine that answers questions using an Ollama chat model based on user-suplied and domain-specific documents, and measures answer quality through a deterministic evaluation harness. It supports multiple retrieval strategies—including dense, MMR, hybrid BM25+dense with RRF, and LLM re-ranking—behind a single RAGEngine facade and Typer CLI.
 
 ### [Final Thoughts: Sentiment Analysis on Last Statements](https://github.com/jp2249/5400-Final-Project)
  
@@ -14,18 +14,17 @@ Local-first RAG (Retrieval-Augmented Generation) engine that answers questions u
 
 ### [NFL Playbook: Video to Classification](https://github.com/samhgold16/NFL-Playbook-V2)
 
-A deep learning pipeline that pulls skill position players' routes out of NFL All-22 footage and classifies them against an 11 route tree (slant, post, corner, etc.). The tracker went through three versions: temporal differencing, then YOLO with DeepSORT, then a
-self-supervised YOLO detector with ByteTrack. Camera stabilization and a field transform turn pixel tracks into field-relative trajectories, and synthetically generated routes fill out the training data for comparing classifier architectures like 1D and 2D CNNs, LSTM networks, and transformers.
+A deep learning pipeline that pulls skill position players' routes out of NFL All-22 footage and classifies them against an 11 route tree (slant, post, corner, etc.). The tracker went through three versions: temporal differencing, then YOLO with DeepSORT, then a self-supervised YOLO detector with ByteTrack. Camera stabilization and a field transform turn pixel tracks into field-relative trajectories, and synthetically generated routes fill out the training data for comparing classifier architectures like 1D and 2D CNNs, LSTM networks, and transformers.
 
 ### [2026 March Madness Kaggle Competition](https://github.com/samhgold16/mm_2026_kaggle)
  
-Entry for the 2026 March Madness Kaggle competition. Simulates the full bracket region by region and reports every team's probability of reaching each round, from the Round of 32 through the championship. Tested various machine learning architectures, using a Naive model as a baseline, and ultimately implemented a ensemble method to predict game-level outcomes.
+Entry for the 2026 March Madness Kaggle competition. Simulates the full bracket region by region and reports every team's probability of reaching each round, from the Round of 32 through the championship. Tested various machine learning architectures, using a Naive model as a baseline, and ultimately implemented an ensemble method to predict game-level outcomes.
 
 ## Currently building
  
 - **Individualized LLM benchmark generation** (Georgetown capstone) · A full-stack conversational agent that turns a plain language request into a custom benchmark based on the prompt's domain: it builds the test environment, then runs the model inside an isolated harness.
-- **Private local LLM** · A locally-hosted, private model I use day to day run with Ollama, so nothing leaves my machine.
-- **2027 Big Data Bowl Kaggle Competition** Utilizing quantitative tools to uncover insights about player-tracking data from NFL Scouting Combine drills and its predictive power for regular-season performance.
+- **Private local LLM** · A private model hosted locally with Ollama that I use day to day, so nothing leaves my machine
+- **2027 Big Data Bowl Kaggle Competition** · Utilizing quantitative tools to uncover insights about player-tracking data from NFL Scouting Combine drills and its predictive power for regular-season performance.
 
 ## Personal Websites
 
@@ -52,7 +51,7 @@ A scrolling data story on how the shrinking Great Salt Lake threatens Utah's ski
  
 **Tooling** Jupyter, pandas, Matplotlib, pytest, Conda, Git, Claude Code
 
-**Tooling** Polars, DuckDB, Spark
+**Data** Polars, DuckDB, Spark
 
 <br>
 <p align="center">
