@@ -20,10 +20,6 @@ Local-first RAG (Retrieval-Augmented Generation) engine that answers questions u
 
 A deep learning pipeline that pulls skill position players' routes out of NFL All-22 footage and classifies them against an 11 route tree (slant, post, corner, etc.). The tracker went through three versions: temporal differencing, then YOLO with DeepSORT, then a self-supervised YOLO detector with ByteTrack. Camera stabilization and a field transform turn pixel tracks into field-relative trajectories, and synthetically generated routes fill out the training data for comparing classifier architectures like 1D and 2D CNNs, LSTM networks, and transformers.
 
-### [2026 March Madness Kaggle Competition](https://github.com/samhgold16/mm_2026_kaggle)
- 
-Entry for the 2026 March Madness Kaggle competition. Simulates the full bracket region by region and reports every team's probability of reaching each round, from the Round of 32 through the championship. Tested various machine learning architectures, using a Naive model as a baseline, and ultimately implemented an ensemble method to predict game-level outcomes.
-
 ## Currently building
  
 - **Individualized LLM benchmark generation** (Georgetown capstone) · A full-stack conversational agent that turns a plain language request into a custom benchmark based on the prompt's domain: it builds the test environment, then runs the model inside an isolated harness.
