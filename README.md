@@ -4,6 +4,10 @@ I am an M.S. student in Data Science and Analytics at Georgetown University with
 
 ## Featured projects
 
+### [Onboarding Q&A Agent](https://github.com/samhgold16/onboarding-qa-agent)
+
+A tool-calling agent (Strands) that answers new-hire questions from a fictional company's handbook and the signed-in employee's own HR records, built on top of my RAG pipeline. Personal tools take no employee ID, so one employee can never read another's records, and the model only classifies each reply while code writes the refusals, computes leave balances and dates, and checks citations. It runs on various model providers with Arize Phoenix tracing and is evaluated on a hand-verified 56-question golden set.
+
 ### [Customizable Private RAG Pipeline](https://github.com/samhgold16/Custom-Rag-Pipeline)
 
 Local-first RAG (Retrieval-Augmented Generation) engine that answers questions using an Ollama chat model based on user-suplied and domain-specific documents, and measures answer quality through a deterministic evaluation harness. It supports multiple retrieval strategies—including dense, MMR, hybrid BM25+dense with RRF, and LLM re-ranking—behind a single RAGEngine facade and Typer CLI.
@@ -47,7 +51,7 @@ A scrolling data story on how the shrinking Great Salt Lake threatens Utah's ski
  
 **ML and vision** PyTorch, Ultralytics YOLO, ByteTrack, DeepSORT, OpenCV, scikit-learn
  
-**NLP and LLMs** Hugging Face Transformers, NLTK, LDA topic modeling, RAG, local model hosting, LLM evaluation harnesses
+**NLP and LLMs** Hugging Face Transformers, NLTK, LDA topic modeling, RAG, local model hosting, LLM evaluation harnesses, Strands, Arize Phoenix
  
 **Tooling** Jupyter, pandas, Matplotlib, pytest, Conda, Git, Claude Code
 
